@@ -4,7 +4,7 @@
 Welcome to the **Breast Cancer Detection** repository, where I've developed a powerful logistic regression model using Python. This model is designed to predict the likelihood of breast cancer based on a range of significant features, including Clump Thickness, Uniformity of Cell Size, Uniformity of Cell Shape, Marginal Adhesion, Single Epithelial Cell Size, Bare Nuclei, Bland Chromatin, Normal Nucleoli, and Mitoses.
 
 ### Dataset Source
-The foundation of this project lies in a carefully curated dataset sourced from [here]([https://doi.org/10.24432/C5DW2B](https://archive.ics.uci.edu/dataset/15/breast+cancer+wisconsin+original)). This dataset is pivotal in training the model to effectively discern between benign and malignant cases.
+The foundation of this project lies in a carefully curated dataset sourced from [here](https://archive.ics.uci.edu/dataset/15/breast+cancer+wisconsin+original). This dataset is pivotal in training the model to effectively discern between benign and malignant cases.
 
 ### Model's Purpose
 The core objective of this project is to enhance early detection of breast cancer, a critical factor in successful medical diagnosis. By utilizing logistic regression—a fitting choice for binary classification tasks—the model is capable of determining the probability of breast cancer occurrence based on the provided features.
